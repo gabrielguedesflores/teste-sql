@@ -43,35 +43,34 @@ Se você não está familiarizado com as ferramentas ou precisa de ajuda extra, 
 Agora, vamos aos exercícios:
 
 ### Exercício 1: Selecionar todas as despesas de setembro de 2022 📅
-
-Escreva uma consulta SQL que selecione todas as despesas do mês de setembro de 2022.
+```Escreva uma consulta SQL que selecione todas as despesas do mês de setembro de 2022.```
 
 ###  Exercício 2: Calcular o total de despesas de outubro de 2022 🧮
-Escreva uma consulta SQL que calcule o total das despesas do mês de outubro de 2022.
+```Escreva uma consulta SQL que calcule o total das despesas do mês de outubro de 2022.```
 
 ### Exercício 3: Selecionar as despesas do Apto em novembro de 2022 🧑‍💼
-Escreva uma consulta SQL que selecione todas as despesas do Apto no mês de novembro de 2022.
+```Escreva uma consulta SQL que selecione todas as despesas do Apto no mês de novembro de 2022.```
 
 ### Exercício 4: Calcular a média das despesas mensais de 2023 📈
-Escreva uma consulta SQL que calcule a média das despesas mensais ao longo de 2023.
+```Escreva uma consulta SQL que calcule a média das despesas mensais ao longo de 2023.```
 
 ### Exercício 5: Selecionar as despesas de aluguel em 2023 🏠
-Escreva uma consulta SQL que selecione todas as despesas com a descrição "Aluguel" em 2023.
+```Escreva uma consulta SQL que selecione todas as despesas com a descrição "Aluguel" em 2023.```
 
 ### Exercício 6: Calcular o total das despesas de Gabriel em 2023 💼📉
-Escreva uma consulta SQL que calcule o total das despesas de Gabriel ao longo de 2023.
+```Escreva uma consulta SQL que calcule o total das despesas de Gabriel ao longo de 2023.```
 
 ### Exercício 7: Selecionar as despesas de maior valor de janeiro de 2023 💰
-Escreva uma consulta SQL que selecione as despesas de maior valor no mês de janeiro de 2023.
+```Escreva uma consulta SQL que selecione as despesas de maior valor no mês de janeiro de 2023.```
 
 ### Exercício 8: Calcular o total das despesas por mês em 2023 📅📉
-Escreva uma consulta SQL que calcule o total das despesas por mês ao longo de 2023.
+```Escreva uma consulta SQL que calcule o total das despesas por mês ao longo de 2023.```
 
 ### Exercício 9: Selecionar as despesas de Gabriel com valor superior a 300 em agosto de 2023 🧑‍💼💲
-Escreva uma consulta SQL que selecione as despesas de Gabriel com valor superior a 300 no mês de agosto de 2023.
+```Escreva uma consulta SQL que selecione as despesas de Gabriel com valor superior a 300 no mês de agosto de 2023.```
 
 ### Exercício 10: Calcular o total das despesas de aluguel em cada mês de 2023 🏠📉
-Escreva uma consulta SQL que calcule o total das despesas com a descrição "Aluguel" em cada mês de 2023.
+```Escreva uma consulta SQL que calcule o total das despesas com a descrição "Aluguel" em cada mês de 2023.```
 
 
 Divirta-se praticando esses exercícios e aprimorando suas habilidades em SQL! 💪😄
